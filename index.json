@@ -1,0 +1,58 @@
+[
+    {
+        "name": "请选择添加下面的漫画源",
+        "fileName": "",
+        "key": "",
+        "version": "1.0.0",
+        "description": "漫画打不开,页面报错,请删除漫画源,重新添加。"
+    },
+    {
+        "name": "桃子漫画",
+        "fileName": "mhtmh.js",
+        "key": "mhtmh",
+        "version": "2.0.6",
+        "description": "韩漫、国漫居多"
+    },
+    {
+        "name": "国屋漫画",
+        "fileName": "dmwmh.js",
+        "key": "dmwmh",
+        "version": "1.0.2",
+        "description": "韩漫、国漫居多"
+    },
+    {
+        "name": "嘟嘟漫画",
+        "fileName": "ddmh.js",
+        "key": "ddmh",
+        "version": "1.0.0",
+        "description": "韩漫、国漫居多"
+    },
+    {
+        "name": "爱看漫画",
+        "fileName": "ikmmh.js",
+        "key": "ikmmh",
+        "version": "1.0.0",
+        "description": "韩漫、国漫居多"
+    },
+    {
+        "name": "包子漫画",
+        "fileName": "baozi.js",
+        "key": "baozi",
+        "version": "1.0.2",
+        "description": "韩漫、国漫居多"
+    },
+    {
+        "name": "Komiic漫画",
+        "fileName": "komiic.js",
+        "key": "Komiic",
+        "version": "1.0.3",
+        "description": "日漫、港漫、美漫居多"
+    },
+    {
+        "name": "ant漫画",
+        "fileName": "antbyw.js",
+        "key": "antbyw",
+        "version": "1.0.1",
+        "description": "日漫、港漫、美漫居多"
+    }
+]
